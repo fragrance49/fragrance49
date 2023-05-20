@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanahonchar&label=Profile%20views&color=0e75b6&style=flat" alt="yanahonchar" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working **ChatGpt**
 
 - 💬 Ask me about **Django**
 

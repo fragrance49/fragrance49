@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maksim Nemtsov</h1>
+<h1 align="center">Hi 👋, I'm a Full Stack Developer</h1>
 <h3 align="center">I am a senior full-stack web developer with a track record of delivering large-scale high-performance products and have professional experience in various technologies of frontend and backend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanahonchar&label=Profile%20views&color=0e75b6&style=flat" alt="yanahonchar" /> </p>
